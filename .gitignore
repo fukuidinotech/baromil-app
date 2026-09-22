@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# エディタ
+*.swp
+*~
+
+# ローカル専用のツール設定（公開しない）
+.claude/
